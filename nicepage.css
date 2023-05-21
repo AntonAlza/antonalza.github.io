@@ -39942,7 +39942,7 @@ li.active > a.u-button-style.u-text-body-alt-color,
 li.active > a.u-button-style.u-text-body-alt-color[class*="u-border-"],
 a.u-button-style.u-text-body-alt-color,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"] {
-  color: #ffffff !important;
+  color: #808080 !important;
 }
 a.u-button-style.u-text-body-alt-color:hover,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"]:hover,
@@ -39984,7 +39984,7 @@ a.u-button-style.u-button-style.active > .u-text-active-body-alt-color[class*="u
 .u-button-style:hover > .u-text-hover-body-alt-color .u-svg-link,
 .u-button-style.u-button-style.active > .u-text-active-body-alt-color .u-svg-link,
 .u-text-hover-body-alt-color:focus .u-svg-link {
-  fill: #ffffff;
+  fill: #808080;
 }
 .u-link.u-text-body-alt-color:hover {
   color: #e6e6e6 !important;
