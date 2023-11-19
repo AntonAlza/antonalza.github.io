@@ -41157,8 +41157,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-logo-image-1 {
   width: 350%;
+<<<<<<< HEAD
   /* height:  100%; */
   text-align: center;
+=======
+  height: 100%;
+>>>>>>> e575be88d32dc90bb6086e85814bb6f312c81778
 }
 
 .u-header .u-menu-1 {
