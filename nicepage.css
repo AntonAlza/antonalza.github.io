@@ -3081,6 +3081,7 @@ section,
 header,
 footer {
   position: relative;
+  background-color: #000;
 }
 section > *,
 header > *,
@@ -3108,6 +3109,7 @@ a:focus {
 .u-clearfix:before {
   content: '';
   display: table;
+  text-align: center;
 }
 .u-clearfix:after {
   clear: both;
@@ -41143,9 +41145,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
-.u-header .u-sheet-1 {
+/* .u-header .u-sheet-1 {
   min-height: 80px;
-}
+} */
 
 .u-header .u-image-1 {
   width: 64px;
@@ -41154,8 +41156,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  width: 350%;
+  /* height:  100%; */
+  text-align: center;
 }
 
 .u-header .u-menu-1 {

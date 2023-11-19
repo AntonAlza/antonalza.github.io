@@ -2056,7 +2056,7 @@
 }
 
 .u-section-8 .u-repeater-1 {
-  /* grid-template-columns: repeat(7, calc(14.2857% - 8.57143px)); */
+  grid-template-columns: repeat(7, calc(34.2857% - 18.57143px));
   min-height: 190px;
   grid-gap: 10px;
 }
@@ -2147,7 +2147,7 @@
   }
 
   .u-section-8 .u-repeater-1 {
-    /* grid-template-columns: repeat(4, calc(25% - 7.5px)); */
+    grid-template-columns: repeat(4, calc(25% - 7.5px));
     min-height: 421px;
   }
 }
@@ -2162,7 +2162,7 @@
   }
 
   .u-section-8 .u-repeater-1 {
-    /* grid-template-columns: repeat(2, calc(50% - 5px)); */
+    grid-template-columns: repeat(2, calc(50% - 5px));
     min-height: 607px;
   }
 }
@@ -2489,4 +2489,8 @@
   .u-section-11 .u-image-1 {
     min-height: 239px;
   }
+}
+
+ul.puntos {
+  list-style-type: disc; /* Utiliza puntos */
 }
